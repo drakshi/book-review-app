@@ -1,0 +1,20 @@
+.bookbox{
+    width: 50vw;
+    background-color: rgba(192, 152, 152, 0.8);
+   
+    color: #121212;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px auto;
+    text-align: left;
+    text-align: center;
+    transition: 2s;
+}
+.bookbox__content{
+    text-align: left;
+}
+.bookbox__name{
+   text-align: right;
+   font-weight: 500;
+   font-style: italic;
+}

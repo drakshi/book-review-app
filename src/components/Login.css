@@ -1,0 +1,24 @@
+.login__panel{
+    width: 40vw;
+    background-color: rgba(255,255,255,0.8);
+    margin:auto;
+    color: #121212;
+    margin-top: 20vh;
+    padding: 50px;
+    border-radius: 20px;
+}
+.login__panelButton{
+    padding: 20px;
+    background-color: rgba(192, 152, 152, 0.8);
+    border: 2px solid rgba(192, 152, 152);
+    border-radius: 10px ;
+    color: #121212;
+    width: 20vw;
+    cursor: pointer;
+}
+.login__panelButton:hover{
+    background-color: rgba(175, 138, 138, 0.8);
+    border: 2px solid #fff;
+    transition-duration:0.5s  ;
+    color: #121212;
+}

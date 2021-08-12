@@ -1,0 +1,32 @@
+.App{
+    text-align: center;
+}
+body{
+    color: black;
+    margin: auto;
+}
+.bookreview{
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    background-color:rgba(192, 152, 152, 0.8);
+   margin-right: 20px;
+}
+ .error{
+    background-color: rgb(175, 30, 30);
+    border: 2px solid rgb(143, 23, 23);
+    box-shadow: 10px 15px 15px rgb(141, 23, 23);
+    width: 50vw;
+    color:#fff;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px auto;
+    text-align: left;
+    text-align: center;
+    transition: 2s;
+}
